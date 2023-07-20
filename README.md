@@ -17,4 +17,5 @@ captivating images based on textual input, showcasing the synergy
 between language and vision AI models.
 4) Intuitive UI: The app boasts an intuitive user interface designed with Flutter,
 ensuring smooth navigation and a visually pleasing experience.
+
 ![Screenshot 2023-07-20 211424](https://github.com/Saksham0205/stella/assets/119859197/152745fd-5449-446e-9054-e81e4025609c)
