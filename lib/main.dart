@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.light(useMaterial3: true).copyWith(
         scaffoldBackgroundColor: Pallete.whiteColor,
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }
