@@ -29,7 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   animate_do: ^3.0.2
-  speech_to_text: ^6.3.0
+  speech_to_text: ^7.0.0
   http: ^1.1.0
   flutter_tts: ^3.7.0
   flutter:
